@@ -1,0 +1,430 @@
+{
+    "id": "119f8619-cff7-4e3a-b956-553b9f2739ea",
+    "name": "do(while)",
+    "pve_score": 0,
+    "pvp_score": 0,
+    "pokedex_score": 0,
+    "captured_pokemons": [
+        {
+            "id": "09c18b06-e6ab-4c68-92f1-534546ebb16d",
+            "pokemon_id": 152
+        },
+        {
+            "id": "5c9b8347-2397-4b0d-8d44-a2afd8bc0735",
+            "pokemon_id": 91
+        },
+        {
+            "id": "a78d8747-b425-41e3-82f0-8f61f579c5eb",
+            "pokemon_id": 12
+        },
+        {
+            "id": "feee2bf3-6aed-4bea-86c7-8faee47cd1e4",
+            "pokemon_id": 28
+        },
+        {
+            "id": "cfe14bc7-e4a7-4bee-8142-ecd184fb3c2c",
+            "pokemon_id": 114
+        },
+        {
+            "id": "53ef9006-d50b-4801-a026-9268a4b5739d",
+            "pokemon_id": 16
+        },
+        {
+            "id": "fa803182-c969-46d1-bd2f-815f6bd6ac67",
+            "pokemon_id": 61
+        },
+        {
+            "id": "76b37299-d0c6-421a-8939-537be7967535",
+            "pokemon_id": 47
+        },
+        {
+            "id": "29a190af-0c0d-49d8-a757-d2a015101f2a",
+            "pokemon_id": 130
+        },
+        {
+            "id": "51d483c4-2ffb-442c-bedd-00b3bc1e10e5",
+            "pokemon_id": 114
+        },
+        {
+            "id": "2db40c36-c672-41e9-9aac-8584d2ca3321",
+            "pokemon_id": 95
+        },
+        {
+            "id": "b7d40893-9bea-4993-8e36-9bfc8db30766",
+            "pokemon_id": 95
+        },
+        {
+            "id": "04bd1790-ef88-4eb5-a454-cc710c48fb1e",
+            "pokemon_id": 2
+        },
+        {
+            "id": "abb6f757-427e-4a92-8aa0-73c4bf8544b5",
+            "pokemon_id": 2
+        },
+        {
+            "id": "142b7130-6dda-498b-a209-bcd7ac7606af",
+            "pokemon_id": 115
+        },
+        {
+            "id": "48c66e1e-614d-4d3b-a7dc-0da86ad5a772",
+            "pokemon_id": 22
+        },
+        {
+            "id": "f7175d22-af6f-48f3-bfb5-28e09d7a7aa9",
+            "pokemon_id": 2
+        },
+        {
+            "id": "8baa5b68-74ba-45d9-b5e0-1647e69666fc",
+            "pokemon_id": 69
+        },
+        {
+            "id": "f97ed08c-9d68-4506-bc2d-66d4ae6f3dd2",
+            "pokemon_id": 80
+        },
+        {
+            "id": "01012cf4-7af4-4847-97e5-27c9160c8283",
+            "pokemon_id": 69
+        },
+        {
+            "id": "fef1285e-83c4-43e2-acb4-d4cdee293290",
+            "pokemon_id": 2
+        },
+        {
+            "id": "ea093aa0-65c6-4eb1-a6ed-036ee71c2c9c",
+            "pokemon_id": 30
+        },
+        {
+            "id": "fecc51c6-0c68-479b-a7d1-fb387c6f3535",
+            "pokemon_id": 19
+        },
+        {
+            "id": "3bbd9222-7f42-4ba2-b4c8-5ad569d3bd95",
+            "pokemon_id": 69
+        },
+        {
+            "id": "dcedadd1-722a-4c1a-aab9-1b3786b50a3a",
+            "pokemon_id": 114
+        },
+        {
+            "id": "ee961d71-a995-47c6-ad1a-4e9d41210829",
+            "pokemon_id": 22
+        },
+        {
+            "id": "a1e2203e-e3f7-4227-8126-6b17016251d0",
+            "pokemon_id": 19
+        },
+        {
+            "id": "0421caba-c9d9-4520-9334-0048597b1f51",
+            "pokemon_id": 30
+        },
+        {
+            "id": "ee4e4dd8-69a2-4627-8c64-61a4de3d999f",
+            "pokemon_id": 2
+        },
+        {
+            "id": "b6694d6a-1571-4e1a-a84c-110a446e1cb5",
+            "pokemon_id": 80
+        },
+        {
+            "id": "a4ee27e8-e3ba-4c30-935c-5d9f1b1b59c0",
+            "pokemon_id": 22
+        },
+        {
+            "id": "98fbdda8-b385-4fa2-a2fd-fe61a81fe02d",
+            "pokemon_id": 19
+        },
+        {
+            "id": "15260c2b-103d-4c27-af7b-1398e674b3a2",
+            "pokemon_id": 115
+        },
+        {
+            "id": "92c1aca1-8ef3-4747-babc-0280fba457cc",
+            "pokemon_id": 22
+        },
+        {
+            "id": "0c058fae-b5ff-4a85-aa9d-d44f44e49cac",
+            "pokemon_id": 56
+        },
+        {
+            "id": "faaf7d84-b283-4dc6-8f54-089fe7093992",
+            "pokemon_id": 95
+        },
+        {
+            "id": "2d89ddbd-9a40-442b-a012-ab3aaa2974c2",
+            "pokemon_id": 80
+        },
+        {
+            "id": "14f9c2dc-50e0-4a96-8a5a-4765679e3cd5",
+            "pokemon_id": 114
+        },
+        {
+            "id": "b9a5d730-808a-4fee-894a-e6274ab89f30",
+            "pokemon_id": 30
+        },
+        {
+            "id": "0d7810bf-00c3-4bbf-afdf-856337ed7f28",
+            "pokemon_id": 45
+        },
+        {
+            "id": "4fa0cc25-1651-4814-809e-0b05d349f1cd",
+            "pokemon_id": 22
+        },
+        {
+            "id": "c7326dfe-a95a-4a3f-b795-6136ef8e7bd5",
+            "pokemon_id": 114
+        },
+        {
+            "id": "77c975da-aace-4838-9c4a-c9e4cfe28289",
+            "pokemon_id": 56
+        },
+        {
+            "id": "630a1b44-568a-4d76-8e09-46b2e748fc58",
+            "pokemon_id": 56
+        },
+        {
+            "id": "9bf321ac-924b-4ca6-b7ea-d5e807ec107d",
+            "pokemon_id": 63
+        },
+        {
+            "id": "2a77f6c4-f8ac-4f68-b608-afa69e51fe0b",
+            "pokemon_id": 56
+        },
+        {
+            "id": "b336d06e-a15b-4aa0-b33d-da0d489e287c",
+            "pokemon_id": 69
+        },
+        {
+            "id": "a9e5b3a1-4676-4244-9964-68ac41b4c709",
+            "pokemon_id": 69
+        },
+        {
+            "id": "3527e165-c7f7-4811-a22b-ab6e1b0362b6",
+            "pokemon_id": 30
+        },
+        {
+            "id": "4ddb8d78-bf39-4404-9c60-3c28318f7451",
+            "pokemon_id": 114
+        },
+        {
+            "id": "41c8144d-b2cc-431c-915c-508013bfc560",
+            "pokemon_id": 69
+        },
+        {
+            "id": "84178213-2323-4bbe-99e2-d51d1d3598f4",
+            "pokemon_id": 45
+        },
+        {
+            "id": "c62b5441-0971-4384-aeab-9c623b469628",
+            "pokemon_id": 80
+        },
+        {
+            "id": "c983394f-d5ac-442b-baf2-51a038459ae5",
+            "pokemon_id": 19
+        },
+        {
+            "id": "3dc69271-98cd-4243-9dcd-5c842d482ff8",
+            "pokemon_id": 69
+        },
+        {
+            "id": "33253752-bd05-43bd-a530-4176086958a9",
+            "pokemon_id": 115
+        },
+        {
+            "id": "44818aab-cd3b-4459-a675-8dc1d3dc2e6b",
+            "pokemon_id": 2
+        },
+        {
+            "id": "c1efccd1-98bb-4ccd-91ef-69eef028c99f",
+            "pokemon_id": 69
+        },
+        {
+            "id": "2dde605c-00c8-4a3f-9964-6f0a4d88e79f",
+            "pokemon_id": 114
+        },
+        {
+            "id": "0bc1d65e-7728-44b7-8d23-b88e942c320e",
+            "pokemon_id": 30
+        },
+        {
+            "id": "05a8e158-909a-4a08-aed5-268aa48f492d",
+            "pokemon_id": 69
+        },
+        {
+            "id": "e92c9f60-f768-4b29-972f-4f4464970cb6",
+            "pokemon_id": 95
+        },
+        {
+            "id": "666b5f6b-67aa-44a6-96b5-4150d63977c5",
+            "pokemon_id": 114
+        },
+        {
+            "id": "b3e718b5-a625-459a-9293-b969b66f7fda",
+            "pokemon_id": 114
+        },
+        {
+            "id": "d1c238b0-2502-4a29-85ec-3cee5b7f0935",
+            "pokemon_id": 114
+        },
+        {
+            "id": "d8900597-877e-4275-940a-d40d115badc1",
+            "pokemon_id": 80
+        },
+        {
+            "id": "a23db683-4dff-4b65-b3dc-12dbb22b0ba7",
+            "pokemon_id": 22
+        },
+        {
+            "id": "aa7c54e1-5e88-45ab-a766-75cd1d484e88",
+            "pokemon_id": 22
+        },
+        {
+            "id": "bde6755c-86ca-4736-96f8-ec60fe872100",
+            "pokemon_id": 63
+        },
+        {
+            "id": "0ed19815-fa00-44ef-bb1c-55589eeaa172",
+            "pokemon_id": 19
+        },
+        {
+            "id": "e1c8255c-8af6-4460-9390-2c2ec66bc275",
+            "pokemon_id": 19
+        },
+        {
+            "id": "21ee69b3-369f-43e8-bfc2-2ff5540736ea",
+            "pokemon_id": 30
+        },
+        {
+            "id": "d95dac39-48c2-4dac-99fd-94f67fa607a3",
+            "pokemon_id": 30
+        },
+        {
+            "id": "3355a83d-b8c9-4e3d-b1f2-bee263df3c0a",
+            "pokemon_id": 19
+        },
+        {
+            "id": "1c694eaa-08a7-453a-9ded-c647102e5a87",
+            "pokemon_id": 114
+        },
+        {
+            "id": "3a4cc86f-c9af-48b3-805d-a134e39f2fc5",
+            "pokemon_id": 2
+        },
+        {
+            "id": "c6fe3886-e598-4993-b0af-f000d9e9687c",
+            "pokemon_id": 80
+        },
+        {
+            "id": "99adfacf-23e7-4d9a-b434-2cda4789b23f",
+            "pokemon_id": 2
+        },
+        {
+            "id": "fe5672b1-e31a-4009-a33c-9bf3452507b8",
+            "pokemon_id": 95
+        },
+        {
+            "id": "cc57e9d0-6278-4751-93a5-acdb02f39e89",
+            "pokemon_id": 30
+        },
+        {
+            "id": "415207dd-f784-4490-9fa6-f6cfb3e750f9",
+            "pokemon_id": 30
+        },
+        {
+            "id": "b1139734-c4e3-4ffd-959b-59a83ae39916",
+            "pokemon_id": 22
+        },
+        {
+            "id": "094d5c28-d455-44d9-828d-9a28c5fe67a4",
+            "pokemon_id": 69
+        },
+        {
+            "id": "66e033df-edc3-47ab-9004-84a5d1118295",
+            "pokemon_id": 115
+        },
+        {
+            "id": "acde3637-e594-4690-9b31-bcd7054c7535",
+            "pokemon_id": 114
+        },
+        {
+            "id": "de465fcc-fc20-43d8-acb2-90f83590c694",
+            "pokemon_id": 22
+        },
+        {
+            "id": "e92da028-2a26-4ad7-94a0-f5ca0c6a87ee",
+            "pokemon_id": 69
+        },
+        {
+            "id": "56c30196-21fb-451a-b3fe-545082b7b1cb",
+            "pokemon_id": 56
+        },
+        {
+            "id": "7e626717-e7cb-47c6-8ea6-dce46d96186e",
+            "pokemon_id": 45
+        },
+        {
+            "id": "938f70c5-44e9-46ae-b1f4-a0897d751261",
+            "pokemon_id": 22
+        },
+        {
+            "id": "476f6bc3-fab5-4441-b401-944eb14fe577",
+            "pokemon_id": 64
+        },
+        {
+            "id": "350643f2-694a-4886-8abd-474bb9a0b294",
+            "pokemon_id": 64
+        },
+        {
+            "id": "01ec7dcd-3867-4095-87bb-a09a2b383832",
+            "pokemon_id": 63
+        },
+        {
+            "id": "415be33b-7658-428f-a8ee-883315b3b899",
+            "pokemon_id": 63
+        },
+        {
+            "id": "3c9fc0c1-7aca-4260-9249-c106a4b6a645",
+            "pokemon_id": 56
+        },
+        {
+            "id": "81c8e13f-e231-452f-a1be-d57ceffb3c1a",
+            "pokemon_id": 2
+        },
+        {
+            "id": "84cfddb4-c10f-4bd0-8940-350bf371c914",
+            "pokemon_id": 94
+        },
+        {
+            "id": "282d2842-5586-4926-a0e6-3f25207dcc38",
+            "pokemon_id": 22
+        },
+        {
+            "id": "47c7784b-8f26-47d4-8cdb-ec73ea393b96",
+            "pokemon_id": 113
+        },
+        {
+            "id": "8067fdae-5001-4afe-b8cf-0fcb4a4fa794",
+            "pokemon_id": 137
+        },
+        {
+            "id": "aed53c19-aafc-459d-8f4b-98cb62a847a5",
+            "pokemon_id": 25
+        },
+        {
+            "id": "996650ea-fa69-432b-969c-7e399500e7c8",
+            "pokemon_id": 44
+        },
+        {
+            "id": "49155cda-2ce2-45ac-9cc0-f14b8629fc1e",
+            "pokemon_id": 124
+        },
+        {
+            "id": "57b1d45a-3603-4488-8981-330e2ae3acaf",
+            "pokemon_id": 133
+        },
+        {
+            "id": "fd1a757e-d738-4a6b-b79c-b45403825944",
+            "pokemon_id": 88
+        }
+    ],
+    "is_active": true
+}
