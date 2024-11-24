@@ -68,6 +68,10 @@
       background-color: #f0f0f0;
   }
 
+  .capitalize {
+    text-transform: capitalize;
+  }
+
   .child {
       width: 350px;
       height: 700px;
@@ -164,11 +168,11 @@
     
     <div class="info-pokemon">
       <div id="pg1" class="page active">
-        <b>Id:</b> {{ $pokemon['id'] }}
+        <b>Id:</b> <span class="capitalize">{{ $pokemon['id'] }}</span>
         <br>
-        <b>Nom:</b> {{ $pokemon['name'] }}
+        <b>Nom:</b> <span class="capitalize">{{ $pokemon['name'] }}</span>
         <br>
-        <b>Tipus:</b> {{ $pokemon['types'][0]['type']['name'] }} @if(isset($pokemon['types'][1])) / {{ $pokemon['types'][1]['type']['name'] }} @endif
+        <b>Tipus:</b> <span class="capitalize">{{ $pokemon['types'][0]['type']['name'] }}</span>
         <br>
         <b>Alçada:</b> {{ $pokemon['height'] }}
         <br>
@@ -185,7 +189,7 @@
         <b>Habilitats:</b>
         <ul>
           @foreach ($pokemon['abilities'] as $ability)
-            <li>{{ $ability['ability']['name'] }}</li>
+            <li class="capitalize">{{ $ability['ability']['name'] }}</li>
           @endforeach
         </ul>
       </div>
@@ -193,7 +197,7 @@
         <b>Stats:</b>
         <ul>
           @foreach ($pokemon['stats'] as $stat)
-              <li><b>{{ $stat['stat']['name'] }}</b>: {{ $stat['base_stat'] }}</li>
+              <li><b class="capitalize">{{ $stat['stat']['name'] }}</b>: {{ $stat['base_stat'] }}</li>
           @endforeach
         </ul>
       </div>
